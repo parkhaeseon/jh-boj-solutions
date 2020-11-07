@@ -19,20 +19,23 @@ I divided the difficulty range into 20 levels. If you use solved.ac, take this a
 
 # Lv4
 
-* [1002. 터렛](https://www.acmicpc.net/problem/1002)
-
 # Lv5
 
 # Lv6
 
 # Lv7
 
+* [1782. 거울 숫자](https://www.acmicpc.net/problem/1782)
+* [19747. The last battle](https://www.acmicpc.net/problem/19747)
+
 # Lv8
 
 # Lv9
 
-* [19543. 던전 지도](https://www.acmicpc.net/problem/19543)
+* [19543. 던전 지도](https://www.acmicpc.net/problem/19543) <-- great!
 * [19566. 수열의 구간 평균](https://www.acmicpc.net/problem/19566)
+* [19701. 소 운전한다.](https://www.acmicpc.net/problem/19701)
+* [20041. Escaping](https://www.acmicpc.net/problem/20041)
 
 # Lv10
 
@@ -43,11 +46,14 @@ I divided the difficulty range into 20 levels. If you use solved.ac, take this a
 # Lv11
 
 * [1462. 퀴즈쇼](https://www.acmicpc.net/problem/1462)
-* [9545. Digraphs](https://www.acmicpc.net/problem/9545)
+* [9545. Digraphs](https://www.acmicpc.net/problem/9545) <-- great!
+* [16238. 독수리](https://www.acmicpc.net/problem/16238) <-- great!
 * [18015. 어려운 계단 수](https://www.acmicpc.net/problem/18015)
 
 # Lv12
 
+* [1066. 에이한수](https://www.acmicpc.net/problem/1066)
+* [14694. Professional Network](https://www.acmicpc.net/problem/14694)
 * [19568. 직사각형](https://www.acmicpc.net/problem/19568)
 
 # Lv13
@@ -58,12 +64,16 @@ I divided the difficulty range into 20 levels. If you use solved.ac, take this a
 # Lv14
 
 * [12797. 연금술](https://www.acmicpc.net/problem/12797)
+* [19651. 수열과 쿼리 39](https://www.acmicpc.net/problem/19651)
+* [19703. 실험](https://www.acmicpc.net/problem/19703)
 
 # Lv15
 
-* [17507. 시간여행자의 실험기록](https://www.acmicpc.net/problem/17507)
+* [13318. 위험한 해싱](https://www.acmicpc.net/problem/13318) <-- great!
 
 # Lv16
+
+* [20027. LCS 8](https://www.acmicpc.net/problem/20027)
 
 # Lv17
 
